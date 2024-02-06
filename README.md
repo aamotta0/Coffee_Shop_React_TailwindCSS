@@ -4,3 +4,4 @@ Welcome to CaféReact, where the art of coffee meets the power of React and the 
 Tailwind CSS adds a stylized and efficient touch to the design.
 
 ![Captura](https://github.com/aamotta0/coffe_shop_React/assets/144195828/ab84d7d7-bad0-4371-8436-6ce6756de0c7)
+![descarga](https://github.com/aamotta0/Coffee_Shop_React_TailwindCSS/assets/144195828/91f2f3f1-08c0-4635-a8d8-1cbab0fb1a67)
